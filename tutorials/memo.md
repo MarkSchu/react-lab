@@ -1,3 +1,5 @@
 # `memo`
 
-Memo lets you skip the re-renderng of a component when re-rendering is happening but the props are unchanged. 
+(1) React normally re-renders a component whenever its parent re-renders.
+
+(2) memo lets you stop the rerendering of the child if the childs props do not differ.
