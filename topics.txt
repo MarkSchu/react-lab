@@ -1,0 +1,5 @@
+memo
+useTransition
+unit testing with Jest 
+unit testing with react testing framework
+front-end build
